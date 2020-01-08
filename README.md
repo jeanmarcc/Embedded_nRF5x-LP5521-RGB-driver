@@ -1,6 +1,6 @@
 # LP5521-RGB-driver
 
-LP5521 RGB driver example with a nRF5x chip from Nordic Semiconductor
+LP5521 RGB driver example with a **nRF5x** chip from **Nordic Semiconductor**
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Keil V5
 ## Test
 Has been tested with nRF52-DK and custom board 
 
-## Authors
+## Author
 
 https://github.com/johnmarcc
 
