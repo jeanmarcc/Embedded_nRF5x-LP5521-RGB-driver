@@ -15,6 +15,7 @@ Hardware:
 - for a quick demo, put this sketch in nRF5_SDK_15.0.0_a53641a\examples\peripheral\[Your_Project]
 
 (this has been extracted from an existing project so you might need to solve some dependencies)
+
 ## Built With
 
 Keil V5
