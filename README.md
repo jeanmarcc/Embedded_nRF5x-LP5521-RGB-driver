@@ -25,6 +25,6 @@ Has been tested with nRF52-DK and custom board
 
 ## Author
 
-https://github.com/johnmarcc
+https://github.com/jeanmarcc
 
 
